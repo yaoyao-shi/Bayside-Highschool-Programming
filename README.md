@@ -1,1 +1,2 @@
-# Bayside-Highschool-Programming
+# Bayside-Highschool-
+Watch me learn as the lessons progress.
